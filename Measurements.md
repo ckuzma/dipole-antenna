@@ -11,3 +11,9 @@
 - 6mm radius
 - 2 mm away from holder body
 - 60mm apart between nubs
+
+1.8mm for inner threaded section
+2.0mm for inner slip-through section
+4.0mm for recession for screw head
+
+Plastic pass-through hole = 5mm
